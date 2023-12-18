@@ -38,7 +38,7 @@ svg {
     width: 180px;
     filter: drop-shadow(0 0 10px #b786004a);
     animation: breath 1.5s normal forwards;
-    animation-iteration-count: 100000;
+    animation-iteration-count: 100;
 }
 
 
